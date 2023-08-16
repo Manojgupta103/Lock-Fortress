@@ -126,7 +126,7 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = "" 
 # Your Email address
 EMAIL_HOST_PASSWORD = ""
-# Your App Password (which you have to create using app password from Googe)
+# Your App Password (which you have to create using app password from Google)
 EMAIL_USE_TLS = True
 
 
